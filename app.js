@@ -1,3 +1,8 @@
+// TODO: Get data from API not a local file
+// Init users
+// const users = new Users;
+// document.addEventListener('DOMContentLoaded', getUser);
+
 const data = [
   {
     name: 'John Doe',
@@ -66,3 +71,12 @@ function profileIterator(profiles) {
     }
   };
 }
+
+// // Get data from API
+// function getUser() {
+//   users.getUser(5)
+//     .then(result => {
+//       console.log(result)
+//     })
+//     .catch(err => console.log(err));
+// }

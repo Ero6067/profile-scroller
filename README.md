@@ -6,7 +6,7 @@ Uses HTML5, Javascript, Bootstrap
 
 # Features
 
-* 
+* able to go through an array of profiles using iterators
 * 
 
 # Run
